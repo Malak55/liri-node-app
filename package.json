@@ -2,12 +2,12 @@
   "name": "liri-node-app",
   "version": "1.0.0",
   "description": "Liri app",
-  "main": "index.js",
+  "main": "iiri.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Matt",
+  "author": "",
   "license": "ISC",
   "repository": {
     "type": "git",
@@ -18,7 +18,10 @@
   },
   "homepage": "https://github.com/Malak55/liri-node-app#readme",
   "dependencies": {
+    "dotenv": "^6.1.0",
+    "node-spotify-api": "^1.0.7",
     "omdb": "^0.8.0",
+    "request": "^2.88.0",
     "save": "^2.3.2",
     "spotify": "^0.3.0",
     "twitter": "^1.7.1"

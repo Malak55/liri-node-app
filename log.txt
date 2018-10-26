@@ -1,0 +1,37 @@
+
+############### Your Request was: ###############
+ spotify-this-song devil
+############# Here are your results #############
+******************************************
+Artist(s): Machine Gun Kelly
+Song Name: DEVIL
+Preview Link of the song from spotify: null
+The album that the song is from: RAP DEVIL
+******************************************
+
+############### Your Request was: ###############
+ movie-this star wars
+############# Here are your results #############
+******************************************
+Title: Star Wars: Episode IV - A New Hope
+Year the movie came out: 25 May 1977
+IMDB Rating: 8.6
+Rotten Tomatoes Rating: N/A
+Country where the movie was produced: USA
+Language of the movie: English
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the evil Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+******************************************
+
+############### Your Request was: ###############
+ do-what-it-says
+############# Here are your results #############
+########### Your Request from the file: #########
+spotify-this-song,"I Want it That Way"
+############# Here are your results #############
+******************************************
+Artist(s): Backstreet Boys
+Song Name: "I WANT IT THAT WAY"
+Preview Link of the song from spotify: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d4d3f00b2c054261b3756ca29e88c502
+The album that the song is from: The Hits--Chapter One
+******************************************
